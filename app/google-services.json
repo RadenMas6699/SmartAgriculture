@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930648246943",
+    "firebase_url": "https://smart-agriculture-ab5cc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-agriculture-ab5cc",
+    "storage_bucket": "smart-agriculture-ab5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930648246943:android:57ee2ba88aa4aa06d3f0aa",
+        "android_client_info": {
+          "package_name": "com.radenmas.smart_agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930648246943-licu754ir8leclmgerles7frltn88hn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8OYhBP0n6v3pBorwdyFYK2wcL3Lh9nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930648246943-licu754ir8leclmgerles7frltn88hn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
