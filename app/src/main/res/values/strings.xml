@@ -8,12 +8,11 @@
     <string name="app_version">Versi %1$s</string>
     <string name="greeting">Selamat %1$s</string>
     <string name="water_temp">Suhu Air</string>
-    <string name="soil_moisture1">Kelembapan\nTanah 1</string>
-    <string name="soil_moisture2">Kelembapan\nTanah 2</string>
+    <string name="soil_moisture">Kelembapan\nTanah</string>
     <string name="water_ph">pH Air</string>
     <string name="water_pump">Pompa Air</string>
     <string name="water_level">Kapasitas Air</string>
-    <string name="nutrition_pump">Pompa Nutrisi</string>
+    <string name="nutrition_pump">Penyiraman</string>
     <string name="developer_name">Machfudzh Ramadhan Faiz Fadhlurrahman</string>
     <string name="developer">Pengembang</string>
     <string name="desc_app"><![CDATA[Aplikasi ini dikembangkan oleh Machfudzh Ramadhan Faiz Fadhlurrahman mahasiswa Prodi Pendidikan Teknik Informatika & Komputer (S1) angkatan 2017, dengan bantuan pembimbing bapak Dr. Satria Gunawan Zain, S.Pd., M.T. dan bapak Suhartono, S.Kom., M.Kom. Aplikasi ini bertujuan untuk wadah monitoring prototipe Smart Sensor pada pertanian terpadu. Prototype smart sensor merupakan solusi untuk pengambilan tindakan yang efisien untuk memonitoring kualitas lahan pertanian dan sebagai informasikan ke petani agar dapat menjaga siklus nutrisi dan kondisi lahan pertanian.]]></string>

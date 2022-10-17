@@ -131,7 +131,6 @@ class MainActivity : AppCompatActivity() {
                     val time = snapshot.child("time").value.toString().toLong()
                     val temp = snapshot.child("temp").value.toString().toFloat()
                     val soil1 = snapshot.child("soil1").value.toString()
-                    val soil2 = snapshot.child("soil2").value.toString()
                     val ph = snapshot.child("ph").value.toString().toFloat()
                     val tank = snapshot.child("water_level").value.toString()
 
@@ -142,7 +141,6 @@ class MainActivity : AppCompatActivity() {
 
                     b.tvWaterTemp.text = "%.0f".format(temp) + "℃"
                     b.tvSoilMoisture1.text = "$soil1"
-                    b.tvSoilMoisture2.text = "$soil2"
                     b.tvWaterPh.text = "%.2f".format(ph)
                     b.tvWaterLevel.text = "${tank}%"
                 }
